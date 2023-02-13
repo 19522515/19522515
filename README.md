@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/19522515-Contact/community][![Gitter](https://badges.gitter.im/19522515-Contact/community.svg)](https://gitter.im/19522515-Contact/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/19522515-Contact/community.svg)](https://gitter.im/19522515-Contact/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viet-le-b381aa248/" target="_blank">
