@@ -66,9 +66,8 @@
 </table>
 
 # Certificates:
-
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-
-
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computational Thinking for Problem Solving](https://www.coursera.org/account/accomplishments/verify/R7765PXKAYE8)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Cleaning with Python](https://app.dataquest.io/verify_cert/Z7T8597XUVBIKIGZ12LP/)
+
