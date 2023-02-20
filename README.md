@@ -69,5 +69,14 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computational Thinking for Problem Solving](https://www.coursera.org/account/accomplishments/verify/R7765PXKAYE8)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Cleaning with Python](https://app.dataquest.io/verify_cert/Z7T8597XUVBIKIGZ12LP/)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Cleaning with Python](https://app.dataquest.io/view_cert/Z7T8597XUVBIKIGZ12LP)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Introduction to SQL and Databases](https://app.dataquest.io/view_cert/VOH1DT3P71012CAKN7KF)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Cleaning and Analysis in Python](https://app.dataquest.io/view_cert/E96GM6NC6IQPKHYAT3V8)
 
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Analysis and Visualization](https://app.dataquest.io/view_cert/STPURHJNJ967MOKW6WCR)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Introduction to Data Visualization in Python](https://app.dataquest.io/view_cert/4EUP55ZVPVIF9T2O9FZ9)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Introduction to Machine Learning in Python](https://app.dataquest.io/view_cert/V8NEBZF7LSADO78XU5CQ)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Intermediate SQL for Data Engineering](https://app.dataquest.io/view_cert/W7CS6KL8F2BP6FZBF42Z)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Intermediate Python for Data Science](https://app.dataquest.io/view_cert/GVGML9P4P2JOUNMPHTFX)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Advanced Data Cleaning in Python](https://app.dataquest.io/view_cert/6LR84ABWO147HNY1ETML)
+- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Intermediate Python and Pandas](https://app.dataquest.io/view_cert/EVKNC886YHQE4FMX1H18)
