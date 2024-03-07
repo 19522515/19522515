@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [University of Information Technology - VNUHCM](https://www.uit.edu.vn/) (UIT).
 
-- 🌱 I’m currently learning **Data analyst and Business analyst.**
+- 🌱 I’m currently learning **Data Analyst and IT Helpdesk.**
 
 <br />
 
@@ -65,13 +65,4 @@
   </tr>
 </table>
 
-# Certificates:
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computational Thinking for Problem Solving](https://www.coursera.org/account/accomplishments/verify/R7765PXKAYE8)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Analysis and Visualization with Python](https://app.dataquest.io/view_cert/UP9OIZZNOJRQVPW6GO5F)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Intermediate Python for Data Science](https://app.dataquest.io/view_cert/KIYQIM58JLG6B0UWNW5M)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Intermediate SQL for Data Analysis](https://app.dataquest.io/view_cert/9ACQU3WDB4Y526XWC4KI)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Intermediate Python for Data Science](https://app.dataquest.io/view_cert/KIYQIM58JLG6B0UWNW5M)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Data Cleaning with Python](https://app.dataquest.io/view_cert/CZ6KDWBQIL5PK7GNP97Y)
-- [![DATAQUEST](https://img.shields.io/badge/-DATAQUEST-cyan) Introduction to APIs and Web Scraping in Python](https://app.dataquest.io/view_cert/XJFJXXBCCIYBLLSAW1T5)
+## My Portfolio Website: https://19522515.github.io/Portfolio
