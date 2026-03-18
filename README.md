@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [University of Information Technology - VNUHCM](https://www.uit.edu.vn/) (UIT).
 
-- 🌱 I’m currently learning **Data Analyst and IT Helpdesk.**
+- 🌱 I’m currently learning **Data Analyst and AI Engineer.**
 
 <br />
 
